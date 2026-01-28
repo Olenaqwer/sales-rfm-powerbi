@@ -19,7 +19,7 @@ that support customer retention and profitability decisions.
 ## 📈 Dashboards Overview
 
 ### 1️⃣ Revenue Metrics Dashboard
-![Revenue Metrics](Powerbi/revenue_metrics.png)
+![Revenue Metrics](powerbi/revenue_metrics.png)
 
 **Key KPIs:**
 - Total Revenue
@@ -35,7 +35,7 @@ that support customer retention and profitability decisions.
 ---
 
 ### 2️⃣ Customers & RFM Segmentation Dashboard
-![RFM Overview](Powerbi/rfm_overview.png)
+![RFM Overview](powerbi/rfm_overview.png)
 
 **Customer Metrics:**
 - Total Customers
